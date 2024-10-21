@@ -1,0 +1,23 @@
+
+body{
+    background-image: url(black.jpg);
+}
+.container{
+    font-family: "Lato", sans-serif;
+    background-color: rgba(255,255,255, 0.5);
+    height:550px ;
+    width: 50% ;
+    color: darkblue;
+    padding:30px 50px ;
+    font-size: 20px;
+    font-weight: 400;
+     
+}
+#boite{
+    background-color: white;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 5px 5px 5px blue;
+    
+}
+
